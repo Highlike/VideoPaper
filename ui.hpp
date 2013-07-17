@@ -1,6 +1,8 @@
 #ifndef UI_HPP
 #define UI_HPP
 
+#include <string>
+
 using namespace std;
 
 namespace UI {

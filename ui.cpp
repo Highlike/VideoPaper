@@ -1,4 +1,5 @@
 #include <opencv2/highgui/highgui.hpp>
+#include <string>
 #include "ui.hpp"
 
 using namespace cv;
