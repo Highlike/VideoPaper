@@ -12,7 +12,7 @@ Then you can specify a *movie* or a *picture* to fill the blank sheets of papers
 Preview
 -------
 
-This is how running VideoPaper can look!
+This is how running VideoPaper can look like!
 
 ![alt text][screen]
 
