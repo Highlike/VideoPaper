@@ -16,7 +16,7 @@ This is how running VideoPaper can look like!
 
 ![alt text][screen]
 
-[screen]: http://imageshack.us/a/img547/2025/pkm9.png "screen"
+[screen]: https://github.com/Highlike/VideoPaper/raw/master/screens/screen03.png "screen"
 
 Usage
 -----
